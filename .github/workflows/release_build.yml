@@ -1,5 +1,5 @@
 on:
-  push:         # Run on every commit (push)
+  push:         
   release:
     types: [created]
 
